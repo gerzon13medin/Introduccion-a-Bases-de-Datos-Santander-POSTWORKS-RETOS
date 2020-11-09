@@ -1,4 +1,5 @@
 # HOla mundo
+
 insert into articulo (id_articulo, nombre, precio, iva, cantidad) values (1, 'Chocolate - Feathers', 2738.93, 12.26, 144);
 insert into articulo (id_articulo, nombre, precio, iva, cantidad) values (2, 'Pasta - Angel Hair', 4391.73, 959.51, 503);
 insert into articulo (id_articulo, nombre, precio, iva, cantidad) values (3, 'Soup Campbells - Tomato Bisque', 2991.35, 587.59, 604);
